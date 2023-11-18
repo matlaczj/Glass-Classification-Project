@@ -1,6 +1,8 @@
 # Glass Classification Project
 
-<img src="https://th.bing.com/th/id/OIG.EXM3fHFMWreWcgCTSFz.?pid=ImgGn" width="300" height="300" style="display: block; margin: auto;">
+<p align="center">
+  <img src="glass-classification-project.png" alt="Logo" width="400"/>
+</p>
 
 ## Table of Contents
 
