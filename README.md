@@ -1,7 +1,7 @@
 # Glass Classification Project
 
 <p align="center">
-  <img src="glass-classification-project.png" alt="Logo" width="400"/>
+  <img src="logo.png" alt="Logo" width="400"/>
 </p>
 
 ## Table of Contents
